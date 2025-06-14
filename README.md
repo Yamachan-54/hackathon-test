@@ -1,6 +1,8 @@
 # hackathon-test
 
-## ①Pythonの課題
+***事前テスト動画:***
+
+![事前テスト動画](https://www.loom.com/share/856bb2ab89f14a29a7915cc5a49012fa?sid=133f2cd3-c387-4f0b-a1e1-f212cf5f0d41)
 
 1. example.pyを作成して「hello world」と出力してください。
 2. greet関数を実装し、「こんにちは」と出力するようにしてください。関数を呼び出して、実際に出力されることを確認してください。
