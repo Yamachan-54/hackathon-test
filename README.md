@@ -2,12 +2,6 @@
 
 ***事前テスト動画:***
 
-![事前テスト動画](https://www.loom.com/share/856bb2ab89f14a29a7915cc5a49012fa?sid=133f2cd3-c387-4f0b-a1e1-f212cf5f0d41)
 
-1. example.pyを作成して「hello world」と出力してください。
-2. greet関数を実装し、「こんにちは」と出力するようにしてください。関数を呼び出して、実際に出力されることを確認してください。
-3. nameを引数に取り、「私の名前は{name}です」と出力するprint_name関数を実装し、関数を呼び出して動作を確認してください。
-4. 「おはようございます」という文字列を戻り値として返すget_greet関数を実装し、戻り値をprint関数で出力してください。
-5. a, bを引数に取り、その足し算の結果を戻り値として返すadd関数を実装し、関数を呼び出して結果をprint関数で出力してください。
-6. example.htmlを作成して「hello world」と画面に表示できるようにしてください。
-7. example.pyとexample.htmlをリポジトリにコミットし、pushしてください。
+https://github.com/user-attachments/assets/fc1bbde1-4f05-4920-bd8d-9277b22cc114
+
